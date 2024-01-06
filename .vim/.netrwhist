@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/glykos/.config/alacritty'
+let g:netrw_dirhist_2='/home/glykos/.vim'
+let g:netrw_dirhist_3='/home/glykos/archive'
+let g:netrw_dirhist_4='/storage/emulated/0/dropbox/conf'

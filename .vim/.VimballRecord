@@ -1,0 +1,1 @@
+csv.vmb: call delete('/data/data/com.termux/files/home/.vim/ftplugin/csv.vim')|call delete('/data/data/com.termux/files/home/.vim/doc/ft-csv.txt')|call delete('/data/data/com.termux/files/home/.vim/syntax/csv.vim')|call delete('/data/data/com.termux/files/home/.vim/ftdetect/csv.vim')|call delete('/data/data/com.termux/files/home/.vim/plugin/csv.vim')
